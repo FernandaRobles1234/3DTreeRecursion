@@ -1,4 +1,4 @@
-# Assignement: Three.js tree recursion
+# Assignment: Three.js tree recursion
 ## Candidate: Fernanda Robles
 
 ## Table of Contents
